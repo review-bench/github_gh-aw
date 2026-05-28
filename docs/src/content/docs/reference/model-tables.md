@@ -120,6 +120,7 @@ Before per-model multipliers are applied, raw token counts are weighted by token
 | `claude-opus-4-7` | 27 |
 | `claude-opus-4.5` | 15 |
 | `claude-opus-4.6` | 27 |
+| `claude-opus-4.7` | 27 |
 | `claude-3-5-opus` | 5 |
 | `claude-3-opus` | 5 |
 
